@@ -1,6 +1,6 @@
-# Hi there 👋 , welcome to My GitHub Profile!
+# Hi there👋 ,welcome to My GitHub Profile!
 
-I'm **Victor Perez**,a bio-image processing and analysis specialist who finds joy in creating custom image processing workflows.  As a passionate for microscopy 🔬 and its physical principles, I am always happy to work with data from different sources, bright-field, light-sheet, super-resolution, second-harmonic generation, two-photon and lately multiplexed-imaging.
+I'm **Victor Perez**,an specialist in bio-image processing and analysis who finds joy in creating custom image processing solutions.  As a passionate for microscopy 🔬 and image formation, I'm happy to work with data from different sources, bright-field, confocal, light-sheet, super-resolution, second-harmonic and multiplexed-imaging.
 
 ## 🔬 About Me  
 
